@@ -1,0 +1,2 @@
+# Aucune conversion de fin de ligne : les fichiers de signature TikTok doivent rester identiques, octet pour octet.
+*.txt -text
